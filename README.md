@@ -1,6 +1,9 @@
 # Masscan-Linux-Static
 Static masscan binaries built with musl.
 
+Credits to:
+https://github.com/robertdavidgraham/masscan
+
 
 Available:
 - armelv5-musl-static little endian
