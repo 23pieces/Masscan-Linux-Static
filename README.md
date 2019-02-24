@@ -1,2 +1,2 @@
-# Massscan-Linux-Static
-Static massscan binaries built with musl
+# Masscan-Linux-Static
+Static masscan binaries built with musl
