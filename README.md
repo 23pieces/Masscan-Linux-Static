@@ -8,6 +8,9 @@ Available:
 - mipsel32-musl-static little endian
 
 
+If you want to donate bitcoin please donate here: 
+- 38WdQPLkxt6RnLtftUefKXMohTKLfEHSgL
+
 Built with a modified version of:
  - https://bitbucket.org/GregorR/musl-cross/overview
 
