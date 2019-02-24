@@ -6,6 +6,7 @@ Available:
 - armelv5-musl-static little endian
 - armhfv7-musl-static little endian
 - mipsel32-musl-static little endian
+- mips64-n32-musl-static big endian
 
 
 If you want to donate bitcoin please donate here: 
