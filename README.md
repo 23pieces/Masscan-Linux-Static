@@ -5,6 +5,7 @@ Static masscan binaries built with musl.
 Available:
 - armelv5-musl-static little endian
 - armhfv7-musl-static little endian
+- mipsel32-musl-static little endian
 
 
 Built with a modified version of:
