@@ -2,7 +2,7 @@
 Static masscan binaries built with musl.
 
 Credits to:
-https://github.com/robertdavidgraham/masscan
+- https://github.com/robertdavidgraham/masscan
 
 
 Available:
